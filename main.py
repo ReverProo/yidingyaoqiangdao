@@ -16,10 +16,10 @@ import time
 enable_gh_action = False  # 启用GitHub Action
 # Bark Push
 enable_bark = True  # 启用Bark推送
-bark_token = "https://api.day.app/ZnFtt4RKrxkxRpubmJapgV/URL Test?url=https://www.baidu.com"  # Bark推送ID
+bark_token = "https://api.day.app/ZnFtt4RKrxkxRpubmJapgV/时效性通知?level=timeSensitive"  # Bark推送ID
 # Serverchan Push
-enable_serverchan = False  # 启用Server酱(Turbo)推送
-sct_token = ""  # Sendkey
+enable_serverchan = True  # 启用Server酱(Turbo)推送
+sct_token = "SCT127082Tc4ynxG76cXsXkipJGxv3kffx"  # Sendkey
 # Ticket Stuff
 startSite = "SK"  # 始发站点
 endSite = "HKA"  # 目标站点
